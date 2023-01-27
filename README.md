@@ -1,6 +1,6 @@
 # TPM Bound GCP Service Account Credentials
 
-> Credit to ![salrashid123](https://github.com/salrashid123/tpm2_evp_sign_decrypt)!
+> Credit to [salrashid123](https://github.com/salrashid123/tpm2_evp_sign_decrypt)!
 
 This repo demonstrates how you can embed a service account's
 private key into a Shielded VMs vTPM then use it to sign JWTs that can
